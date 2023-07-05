@@ -1,4 +1,4 @@
-# Get filter updates by replacing this list entirely, 
+# Get filter updates by replacing this list entirely, https://github.com/chanxfilterporn/4chan-Porn-Filter/blob/main/filter.txt
 
 /asian girls/i
 /christiangirls/i
