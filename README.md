@@ -4,7 +4,7 @@ This respiratory's filter list has been intended to work in conjunction with 4ch
 To install 4chanX, visit https://www.4chan-x.net/ and follow the instructions.
 
 With 4chanX installed, to enable the application of this filter, make sure you have copied the .TXT file contents in this respiratory.
-
+https://github.com/chanxfilterporn/4chan-Porn-Filter/blob/main/filter.txt
 
 1. Click the wrench/settings icon
 2. On the very top of the new popup, to the right of the main button on the left, click 'filter'
