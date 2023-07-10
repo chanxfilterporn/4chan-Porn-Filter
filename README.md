@@ -1,4 +1,4 @@
-# 4chan Porn Filter for 4chanX; **UPDATED AS OF JULY 2023**
+# 4chan Porn Filter for 4chanX; **UPDATED as of JULY 10th 2023**
 This respiratory's filter list has been intended to work in conjunction with 4chanX, a 4chan extension that enhances the site.
 
 To install 4chanX, visit https://www.4chan-x.net/ and follow the instructions.
