@@ -1,10 +1,38 @@
 # Get filter updates by replacing this list entirely, https://github.com/chanxfilterporn/4chan-Porn-Filter/blob/main/filter.txt
 
 /asian girls/i
+/Wifey's World/i
+/you want to suck dick/i
+/sissy thread/i
+/Public Nudity/i
+/Commiewetdream/i
+/^\/deepfake\/s of high quality$/i
+/Alexis von Texas/i
+/^Monster fucks girl\.$/i
+/Blowjob gesture/i
+/wmbf/i
+/behind the scene/i
+/^\/deepfake\/s$/i
+/thigh job/i
+/Talked into it/i
+/you wanna suck dick/i
+/Runway Models/i
+/Top tier Nipples/i
+/^ friends getting horny\.$/i
+/runaway models/i
+/YOU ARE THE GIRL/i
+/ball fucking/
+/ladyboy/i
+/arthoes/i
+/spitting on her/i
 /feet and soles/i
 /czech casting/i
 /Girls Swimsuit/i
 /psycheswings/i
+/white boi/i
+/clit play/i
+/sfm nsfw/i
+/tiktok slut/i
 /twitch thots/i
 /rubbing tits/i
 /bouncing tits/i
